@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Docker的概念/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-09-20T15:33:30.660+08:00","updated":"2024-11-20T16:13:23.415+08:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/Docker的概念/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-09-20T15:33:30.660+08:00","updated":"2024-11-20T16:24:21.010+08:00"}
 ---
 
 
-# Docker的概念  这里有更新
+# Docker的概念  
 
 ## 可能是把Docker的概念讲的最清楚的一篇文章
 
@@ -11,7 +11,7 @@
 
 Docker是世界领先的软件容器平台，所以想要搞懂Docker的概念我们必须先从容器开始说起。
 
-如果你想和更多Docker技术专家交流，可以加我微信liyingjiese，备注『加群』。群里每周都有全球各大公司的最佳实践以及行业最新动态
+如果你想和更多Docker技术专家交流，可以加我微信liyingjiese，备注『加群』。群里每周都有全球各大公司的最佳实践以及行业最新动态 测试更新
 
 。
 
