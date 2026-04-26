@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/(2条消息) 项目工作说明书(SOW)_每天积累一点，一年后你会发现，自己变化很大-CSDN博客/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-09-21T09:23:12.715+08:00","updated":"2024-11-20T18:04:48.540+08:00"}
+{"dg-publish":true,"permalink":"/(2条消息) 项目工作说明书(SOW)_每天积累一点，一年后你会发现，自己变化很大-CSDN博客/","dgPassFrontmatter":true,"created":"2024-09-21T09:23:12.715+08:00","updated":"2024-11-20T18:04:48.540+08:00"}
 ---
 
 OW是对项目所要提供的产品或服务的叙述性的描述。任务书/邀标书或合同一部分
